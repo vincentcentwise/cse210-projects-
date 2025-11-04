@@ -4,8 +4,7 @@ VINCENT TAIYE BALOGUN  ---- version of CSE 210.
 This repository contains the starter code for many different projects. They are arranged folders by week. There is also an an empty sandbox project that can be used to play around with any concept you would like.
 
 
-ChatGPT said:
-What is Version Control and Why It’s Important
+
 
 Meaning of Version Control
 Version control is a system that records changes to files over time so you can recall specific versions later. For software projects, it tracks who changed what, when, and why—storing a history of changes to code, documentation, and other project files. This history lets you inspect previous states, compare versions, and restore files if something goes wrong.
