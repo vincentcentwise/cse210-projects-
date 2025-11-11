@@ -25,6 +25,6 @@ class Program
         myResume._jobs.Add(job2);
 
         // Display the resume
-        myResume.Display();git 
+        myResume.Display();
     }
 }
